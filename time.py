@@ -16,7 +16,7 @@ def countdown(seconds: int) -> None:
             break
         time.sleep(min(1, deadline - time.monotonic()))
 
-    print("\nTime's up!")
+    print("\nTime's upjjjjj!")
 
 
 def main() -> None:
